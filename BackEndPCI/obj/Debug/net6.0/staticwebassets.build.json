@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oCGGPQNrKzDUKmwRvJEEW2hzYjryMA+m/cGgT66C8Eo=",
+  "Source": "BackEndPCI",
+  "BasePath": "_content/BackEndPCI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
